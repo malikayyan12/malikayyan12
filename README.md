@@ -1,8 +1,8 @@
-👋 Hi, I’m @DarkCodeCrafter
+## 👋 Hi, I’m @Malik Ayyan
 
 🚀 Passionate about Machine Learning, AI, and Scalable Model Deployment!
 
-👀 I’m interested in
+##  👀 I’m interested in
 
 🔹 Machine Learning Model Development (Supervised & Unsupervised)
 
@@ -14,7 +14,7 @@
 
 🔹 Feature Engineering & Data Preprocessing
 
-🌱 I’m currently learning
+##  🌱 I’m currently learning
 
 📌 Large Language Models (LLMs) & Prompt Engineering
 
@@ -24,7 +24,7 @@
 
 📌 Explainable AI & Model Interpretability
 
-💞️ I’m looking to collaborate on
+##  💞️ I’m looking to collaborate on
 
 ✅ Open-source machine learning projects
 
@@ -33,6 +33,6 @@
 ✅ Optimizing models for performance and efficiency
 
 
-⚡ Fun fact
+##  ⚡ Fun fact
 
 I can fine-tune a model faster than my coffee brews! ☕🤖😆
