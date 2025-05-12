@@ -1,38 +1,28 @@
-## 👋 Hi, I’m @Malik Ayyan
+## Hi, I’m @Malik Ayyan
 
-🚀 Passionate about Machine Learning, AI, and Scalable Model Deployment!
+🚀 Passionate about Data Science, Analytics, and Turning Data into Actionable Insights!
 
-##  👀 I’m interested in
+## 👀 I’m interested in
 
-🔹 Machine Learning Model Development (Supervised & Unsupervised)
+🔹 Data Analysis & Visualization (Pandas, Matplotlib, Seaborn, Plotly)  
+🔹 Statistical Modeling & Hypothesis Testing  
+🔹 Predictive Modeling & Machine Learning (Scikit-learn, XGBoost)  
+🔹 SQL & Big Data Querying (PostgreSQL, BigQuery, Spark SQL)  
+🔹 Business Intelligence & Dashboarding (Power BI, Tableau)
 
-🔹 Deep Learning & Neural Networks (TensorFlow, PyTorch)
+## 🌱 I’m currently learning
 
-🔹 MLOps & Model Deployment (Docker, Kubernetes, CI/CD)
+📌 Time Series Forecasting & ARIMA models  
+📌 Data Engineering tools (Airflow, dbt)  
+📌 Cloud Data Warehousing (Snowflake, Redshift)  
+📌 Responsible AI & Bias Mitigation in Data
 
-🔹 Cloud AI Platforms (AWS SageMaker, GCP Vertex AI, Azure ML)
+## 💞️ I’m looking to collaborate on
 
-🔹 Feature Engineering & Data Preprocessing
+✅ Open-source data science projects  
+✅ Data storytelling and real-world analytics challenges  
+✅ Building robust, explainable models for business decision-making
 
-##  🌱 I’m currently learning
+## ⚡ Fun fact
 
-📌 Large Language Models (LLMs) & Prompt Engineering
-
-📌 Generative AI & Diffusion Models
-
-📌 Scalable ML Pipelines (TFX, Kubeflow)
-
-📌 Explainable AI & Model Interpretability
-
-##  💞️ I’m looking to collaborate on
-
-✅ Open-source machine learning projects
-
-✅ End-to-end ML workflows & automation
-
-✅ Optimizing models for performance and efficiency
-
-
-##  ⚡ Fun fact
-
-I can fine-tune a model faster than my coffee brews! ☕🤖😆
+I can debug a data pipeline faster than my coffee finishes brewing! ☕📊😄
