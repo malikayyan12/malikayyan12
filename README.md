@@ -1,28 +1,28 @@
 ## Hi, I’m @Malik Ayyan
 
-🚀 Passionate about Data Science, Analytics, and Turning Data into Actionable Insights!
+🚀 Senior Machine Learning Engineer | Deep Learning Engineer | AI & ML Specialist
 
 ## 👀 I’m interested in
 
-🔹 Data Analysis & Visualization (Pandas, Matplotlib, Seaborn, Plotly)  
-🔹 Statistical Modeling & Hypothesis Testing  
-🔹 Predictive Modeling & Machine Learning (Scikit-learn, XGBoost)  
-🔹 SQL & Big Data Querying (PostgreSQL, BigQuery, Spark SQL)  
-🔹 Business Intelligence & Dashboarding (Power BI, Tableau)
+🔹 Designing and deploying large-scale machine learning systems
+🔹 Deep Learning for Computer Vision, NLP, and Generative AI
+🔹 MLOps, Model Optimization, and Deployment (TensorFlow Serving, TorchServe, MLflow, Docker, Kubernetes)
+🔹 Cloud AI Solutions (AWS Sagemaker, GCP Vertex AI, Azure ML)
+🔹 Applied AI for business transformation and intelligent automation
 
 ## 🌱 I’m currently learning
 
-📌 Time Series Forecasting & ARIMA models  
-📌 Data Engineering tools (Airflow, dbt)  
-📌 Cloud Data Warehousing (Snowflake, Redshift)  
-📌 Responsible AI & Bias Mitigation in Data
+📌 Large Language Models (LLMs) & Prompt Engineering
+📌 Reinforcement Learning & Advanced Deep RL algorithms
+📌 Distributed Training & Model Parallelism (Horovod, DeepSpeed)
+📌 Responsible AI, Model Interpretability & Fairness
 
 ## 💞️ I’m looking to collaborate on
 
-✅ Open-source data science projects  
-✅ Data storytelling and real-world analytics challenges  
-✅ Building robust, explainable models for business decision-making
+✅ AI-powered products and solutions for real-world problems
+✅ Research-driven ML/DL projects (NLP, CV, Generative AI)
+✅ Building scalable, production-ready ML pipelines and MLOps frameworks
 
 ## ⚡ Fun fact
 
-I can debug a data pipeline faster than my coffee finishes brewing! ☕📊😄
+I can tune hyperparameters longer than I sleep, but still enjoy the accuracy boost! 🤖📈😄
